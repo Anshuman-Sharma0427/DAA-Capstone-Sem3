@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": "P101",
+    "customer": "Customer A",
+    "destination": "A",
+    "weight": 5,
+    "value": 1000,
+    "deadline": "12:00",
+    "priority": "High"
+  },
+  {
+    "id": "P102",
+    "customer": "Customer B",
+    "destination": "B",
+    "weight": 8,
+    "value": 1500,
+    "deadline": "11:00",
+    "priority": "High"
+  },
+  {
+    "id": "P103",
+    "customer": "Customer C",
+    "destination": "C",
+    "weight": 4,
+    "value": 700,
+    "deadline": "14:00",
+    "priority": "Medium"
+  },
+  {
+    "id": "P104",
+    "customer": "Customer D",
+    "destination": "D",
+    "weight": 6,
+    "value": 1200,
+    "deadline": "10:00",
+    "priority": "High"
+  },
+  {
+    "id": "P105",
+    "customer": "Customer A",
+    "destination": "A",
+    "weight": 3,
+    "value": 500,
+    "deadline": "15:00",
+    "priority": "Low"
+  }
+]
